@@ -1,4 +1,4 @@
-# 📄 CV Builder - React JS
+# 📄 CV Builder - Next JS
 
 Welcome to CV Builder, a web application built on Next JS that helps you create a customized CV in a snap! With our user-friendly interface, you can easily enter your information and choose a design that suits your style.
 
