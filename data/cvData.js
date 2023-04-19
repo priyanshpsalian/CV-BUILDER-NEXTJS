@@ -1,15 +1,15 @@
 export const cvData = {
-  name: "Shivam Ratlam",
+  name: "Priyansh Salian",
   image: "",
-  jobTitle: "Frontend Developer",
+  jobTitle: "MERN Stack Developer",
   location: "Mumbai, India",
-  email: "shivamrat@gmail.com",
+  email: "priyanshpsalian@gmail.com",
   linkedIn: "",
   instagram: "",
   facebook: "",
-  twitter: "shivam",
-  github: "ratlamwala",
-  website: "shivamrat.dev",
+  twitter: "@PriyanshSalian",
+  github: "priyanshpsalian",
+  website: "priyanshsalian.me",
   about:
     "After graduating from the programming department, I worked remotely on graphic design for about 5 years. I have been working to be a **Front End Developer** for the last 7 months and I am looking for a job in this field. Because of my old job, *I give importance to design and visuality in my work.*",
 
@@ -36,18 +36,18 @@ export const cvData = {
   projects: [
     {
       title: "CV Builder",
-      link: "https://shivamrat.dev/cv-builder.dev/",
+      link: "https://priyanshpsalian.me/cv-builder.dev/",
       summary: `With this project you can create real time CV. You can see the changes you have made live. Built with Tailwind and contextAPI.`,
     },
     {
-      title: "shivamrat.dev",
-      link: "https://shivamrat.dev",
+      title: "priyanshpsalian.me",
+      link: "https://priyanshpsalian.me",
       summary: `My personal website, that I created with Next.js, Tailwind Css, Content Layer.`,
     },
 
     {
       title: "Weather App",
-      link: "https://shivamrat.dev/weather-imhalid.vercel.app/",
+      link: "https://priyanshpsalian.me/weather-imhalid.vercel.app/",
       summary: `In this work, a small project where I visualize the data from the API.`,
     },
   ],
