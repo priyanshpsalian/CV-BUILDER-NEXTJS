@@ -14,7 +14,7 @@ This will install all the dependencies required for the project.
 
 2. Next, run the following command to start the development server:
 ```sh
-npm start
+npm run dev
 ```
 
 This will start the development server on http://localhost:3000/ and open the web app in your default browser.
